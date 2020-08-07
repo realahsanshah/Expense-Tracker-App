@@ -9,7 +9,6 @@ import Transaction from './components/Transaction';
 import Reducer from './reducers/Reducer';
 
 function App() {
-  const state=useReducer(Reducer);
   return (
     <div>
       <Header />
