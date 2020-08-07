@@ -2,7 +2,7 @@ import React,{useState} from 'react'
 
 const Transaction = () => {
     const [text,setText]=useState("");
-    const [amount,setAmount]=useState();
+    const [amount,setAmount]=useState(0);
 
     return ( 
         <div>
