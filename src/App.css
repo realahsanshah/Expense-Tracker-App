@@ -70,12 +70,12 @@ h4 {
     color: #c0392b;
 }
 
-.plus:hover {
+li.plus:hover {
     text-decoration: line-through;
     cursor: pointer;
 }
 
-.minus:hover {
+li.minus:hover {
     text-decoration: line-through;
     cursor: pointer;
 }
