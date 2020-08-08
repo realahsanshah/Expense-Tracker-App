@@ -70,6 +70,16 @@ h4 {
     color: #c0392b;
 }
 
+.plus:hover {
+    text-decoration: line-through;
+    cursor: pointer;
+}
+
+.minus:hover {
+    text-decoration: line-through;
+    cursor: pointer;
+}
+
 label {
     display: inline-block;
     margin: 10px 0;
